@@ -1,5 +1,8 @@
 # Housing-Market-Analysis
 
+![city seattle ](https://user-images.githubusercontent.com/113871039/198593894-4be780d6-137b-497c-924d-f5ad5dec96e2.jpeg)
+
+
 # Objective
 The goal of this project is to analyze housing data in King County Washington to figure out what features have what sort of impact on the sale price, create a model that can predict price by inputing these features, and then use this data to solve some real world problem. Along the way we will need to clean our data, do some feature engineering, explain and display our work/findings via models and graphs.
 
