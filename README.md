@@ -4,7 +4,7 @@
 
 
 # Objective
-The goal of this project is to analyze housing data in King County Washington to figure out what features have what sort of impact on the sale price, create a model that can predict price by inputing these features, and then use this data to solve some real world problem. Along the way we will need to clean our data, do some feature engineering, explain and display our work/findings via models and graphs.
+The goal of this project is to analyze housing data in King County, Washington to figure out what features have an impact on the sale price, create a linear regression model that can predict price by inputing these features, and then use this data to solve some real world problem. Along the way we will need to clean our data, do some feature engineering, explain and display our work/findings via models and graphs.
 
 # Business Problem
 A newlywed couple has recently started their new journey together. The first thing that these high school sweethearts would like to do is build a family in their brand new home in the city of Kings County where they were both born and raised. They made a visit to Kings County Real Estate where they stopped at my desk being that they were recommended by a friend. They are specific in their requests in which they’d want a 3 bedroom home with about a $500,000 budget. It is my goal to give the best recommendations of the homes in the area and help these first time home buyers understand how price of a home can change depending on its features and parameters. 
